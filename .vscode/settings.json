@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/b26b4bdf-de74-4589-abd2-157210ec8e2c/resourceGroups/appsvc_linux_brazilsouth_basic/providers/Microsoft.Web/sites/rustplust",
+    "appService.deploySubpath": "."
+}
